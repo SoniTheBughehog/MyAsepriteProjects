@@ -11,5 +11,5 @@ It serves as a personal learning space where I practice animation, effects, and 
 ## 🌊 Waterfall
 **V1 / V2**
 
-![Waterfall Animation](Waterfall/image.png)
-![Waterfall Animation](Waterfall/image2.png)
+![Waterfall](Waterfall/image.png)
+![Waterfall](Waterfall/image2.png)
